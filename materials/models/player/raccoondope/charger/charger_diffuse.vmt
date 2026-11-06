@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/player/raccoondope/charger/charger_diffuse"
+	"$bumpmap" "models/player/raccoondope/charger/charger_normal"
+	"$model" 1
+	"$surfaceprop" "flesh"
+}
